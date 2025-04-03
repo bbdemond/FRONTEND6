@@ -41,12 +41,12 @@
   npm install --production
 
 3. Создайте структуру каталогов:
-  ```bash
+   ```bash
   mkdir -p {public,cache,sessions}
 
 4. Запустите сервер:
-  ```bash
+   ```bash
   npm start
 
 5. Откройте в браузере:
-  http://localhost:3000
+   http://localhost:3000
