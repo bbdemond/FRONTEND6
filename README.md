@@ -37,16 +37,16 @@
    git clone https://github.com/your-repo/auth-system.git && cd auth-system
 
 2. Установите зависимости:
-  ```bash
-  npm install --production
+   ```bash
+   npm install --production
 
 3. Создайте структуру каталогов:
    ```bash
-  mkdir -p {public,cache,sessions}
+   mkdir -p {public,cache,sessions}
 
 4. Запустите сервер:
    ```bash
-  npm start
+   npm start
 
 5. Откройте в браузере:
    http://localhost:3000
